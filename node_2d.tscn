@@ -2080,6 +2080,7 @@ tile_map_data = PackedByteArray("AAD8//v/AAAIAAUAAAD8//z/AAAIAAYAAAD8//3/AAAIAAc
 tile_set = SubResource("TileSet_2nhjh")
 
 [node name="Stone" type="TileMapLayer" parent="TileMap"]
+tile_map_data = PackedByteArray("AAD//woAAAABAAMAAAA=")
 tile_set = SubResource("TileSet_gt76g")
 
 [node name="Wall" type="TileMapLayer" parent="TileMap"]
