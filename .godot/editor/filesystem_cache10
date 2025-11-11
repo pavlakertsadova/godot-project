@@ -1,0 +1,30 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1762859236
+icon.svg::CompressedTexture2D/CompressedTexture2D::1196360005919511361::1762805462::1762850844::1::::<><><>0<>0<>ab52ba0b19dacb8dcd1b4dd6b391f37a<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile::-1::1762805462::0::1::::<><><>0<>0<><>::
+::res://Assets/::1762805462
+::res://Assets/elements-supremacy-spritesheets/::1762850846
+spaghetti_atlas.png::CompressedTexture2D/CompressedTexture2D::2924359491507411460::1762805462::1762850846::1::::<><><>0<>0<>6d9f649f0683255ab2265724d246212e<>res://.godot/imported/spaghetti_atlas.png-a467adb102aaa4080344a36fd34aa82d.ctex::
+unicorn_atlas.png::CompressedTexture2D/CompressedTexture2D::6777930582487334120::1762805462::1762850846::1::::<><><>0<>0<>45f221b59faa499647e327881e057908<>res://.godot/imported/unicorn_atlas.png-4faa7e4a18e7827d6bee684519503133.ctex::
+::res://Assets/Pixel Art Top Down - Basic v1-2/::1762850845
+Changelog.txt::TextFile::-1::1762805462::0::1::::<><><>0<>0<><>::
+Scene Overview.png::CompressedTexture2D/CompressedTexture2D::5776996448105525458::1762805462::1762850845::1::::<><><>0<>0<>76771a8be68ad7272f3ea4e012960ccf<>res://.godot/imported/Scene Overview.png-cc5be843a25c12b6340b52e846d8c98b.ctex::
+::res://Assets/Pixel Art Top Down - Basic v1-2/Texture/::1762850844
+TX Plant.png::CompressedTexture2D/CompressedTexture2D::2823089238618755845::1762805462::1762850844::1::::<><><>0<>0<>437fd5c746ab5cd07ae739c9deaecaba<>res://.godot/imported/TX Plant.png-fda026a9fb0dd54b20ebb18a112f2af6.ctex::
+TX Player.png::CompressedTexture2D/CompressedTexture2D::7465561499749524538::1762805462::1762850844::1::::<><><>0<>0<>a6875ae0074ca7762f0b82d40a088726<>res://.godot/imported/TX Player.png-9062fb9a3a9b58e20786a2e0a4666f17.ctex::
+TX Props.png::CompressedTexture2D/CompressedTexture2D::5997621920619756233::1762805462::1762850844::1::::<><><>0<>0<>5a83ce2b918ed18cd206455a57848e87<>res://.godot/imported/TX Props.png-0d2c090d1d0f464029c3d561b5fb1a30.ctex::
+TX Shadow Plant.png::CompressedTexture2D/CompressedTexture2D::2641880163081685846::1762805462::1762850844::1::::<><><>0<>0<>2361f1dbd7e6db2c0079d3adbeea968c<>res://.godot/imported/TX Shadow Plant.png-3e6d9a9ba2fdb38fbeacbda8af8efd22.ctex::
+TX Shadow.png::CompressedTexture2D/CompressedTexture2D::4149652501641272278::1762805462::1762850844::1::::<><><>0<>0<>edac423b320e13c879bdc508ee0572dc<>res://.godot/imported/TX Shadow.png-220a7f5715da84328999dd1a839f38e3.ctex::
+TX Struct.png::CompressedTexture2D/CompressedTexture2D::7379904382418999449::1762805462::1762850844::1::::<><><>0<>0<>7631a668379ac9d546fb49602dce58cc<>res://.godot/imported/TX Struct.png-011173bb0de524ab865a0edbe6d9c5b7.ctex::
+TX Tileset Grass.png::CompressedTexture2D/CompressedTexture2D::2773827496521841565::1762805462::1762850844::1::::<><><>0<>0<>8d1f83aa56ea8d637b9457b725d1643b<>res://.godot/imported/TX Tileset Grass.png-46df109d7f25c368851e47c51a3c7e88.ctex::
+TX Tileset Stone Ground.png::CompressedTexture2D/CompressedTexture2D::7146186279302115800::1762805462::1762850844::1::::<><><>0<>0<>665231576806cb9fc6cd7a45ae56ddfb<>res://.godot/imported/TX Tileset Stone Ground.png-2062af0ba17237855e68e59447101e36.ctex::
+TX Tileset Wall.png::CompressedTexture2D/CompressedTexture2D::9079207044736133345::1762805462::1762850844::1::::<><><>0<>0<>82699dd642f5485ae3ab95904631356f<>res://.godot/imported/TX Tileset Wall.png-d50a584bf9f2ee1083a4bcda5412512f.ctex::
+::res://Assets/Pixel Art Top Down - Basic v1-2/Texture/Extra/::1762850844
+TX Plant with Shadow.png::CompressedTexture2D/CompressedTexture2D::1681988034016089664::1762805462::1762850844::1::::<><><>0<>0<>6f714e9aec3bf06973513096f5301a62<>res://.godot/imported/TX Plant with Shadow.png-f36b10c5f54629de08339c40937e4e46.ctex::
+TX Props with Shadow.png::CompressedTexture2D/CompressedTexture2D::3505420964261935576::1762805462::1762850844::1::::<><><>0<>0<>5d493d0079f2ed3a216b7f6ef1f4832e<>res://.godot/imported/TX Props with Shadow.png-863af15e8b4d22906b40bc33dc5ce326.ctex::
+::res://scenes/::1762850619
+EscapeTheMaze.tscn::PackedScene::3610157451217534110::1762850619::0::1::::<><><>0<>0<><>::uid://bghr4quojylrh::::res://Assets/Pixel Art Top Down - Basic v1-2/Texture/TX Plant.png<>uid://crpj7sa370kvp::::res://Assets/Pixel Art Top Down - Basic v1-2/Texture/TX Props.png<>uid://bdv0m6vn3j3ws::::res://Assets/Pixel Art Top Down - Basic v1-2/Texture/TX Shadow Plant.png<>uid://b0eef2auba37w::::res://Assets/Pixel Art Top Down - Basic v1-2/Texture/TX Shadow.png<>uid://dde47gxl708i4::::res://Assets/Pixel Art Top Down - Basic v1-2/Texture/TX Struct.png<>uid://bfrwse34rdvs4::::res://Assets/Pixel Art Top Down - Basic v1-2/Texture/TX Tileset Grass.png<>uid://c82wv5n1sa0ka::::res://Assets/Pixel Art Top Down - Basic v1-2/Texture/TX Tileset Stone Ground.png<>uid://d2mbhi35uaul2::::res://Assets/Pixel Art Top Down - Basic v1-2/Texture/TX Tileset Wall.png
+node_2d.tscn::PackedScene::2944627907039244323::1762850619::0::1::::<><><>0<>0<><>::uid://dxfe3v6h758r0::::res://scenes/player.tscn<>uid://bfrwse34rdvs4::::res://Assets/Pixel Art Top Down - Basic v1-2/Texture/TX Tileset Grass.png<>uid://dde47gxl708i4::::res://Assets/Pixel Art Top Down - Basic v1-2/Texture/TX Struct.png<>uid://c82wv5n1sa0ka::::res://Assets/Pixel Art Top Down - Basic v1-2/Texture/TX Tileset Stone Ground.png<>uid://d2mbhi35uaul2::::res://Assets/Pixel Art Top Down - Basic v1-2/Texture/TX Tileset Wall.png<>uid://crpj7sa370kvp::::res://Assets/Pixel Art Top Down - Basic v1-2/Texture/TX Props.png<>uid://b0eef2auba37w::::res://Assets/Pixel Art Top Down - Basic v1-2/Texture/TX Shadow.png<>uid://bdv0m6vn3j3ws::::res://Assets/Pixel Art Top Down - Basic v1-2/Texture/TX Shadow Plant.png<>uid://bghr4quojylrh::::res://Assets/Pixel Art Top Down - Basic v1-2/Texture/TX Plant.png
+player.tscn::PackedScene::8784221364966068335::1762850619::0::1::::<><><>0<>0<><>::uid://cscxjq6uijsui::::res://script/player.gd<>uid://bhwt1kiot67a3::::res://Assets/elements-supremacy-spritesheets/spaghetti_atlas.png
+::res://script/::1762850619
+player.gd::GDScript::6041782760539990912::1762850619::0::1::::<>CharacterBody2D<><>0<>0<><>::
